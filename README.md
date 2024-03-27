@@ -20,4 +20,4 @@
 
 Для запуска сервера: `$ ./tcp_multichat_server`
 
-To run the client `$ ./tcp_multichat_client <IP> <PORT> <USERNAME>`
+Для запуска клиента `$ ./tcp_multichat_client <IP> <PORT> <USERNAME>`
